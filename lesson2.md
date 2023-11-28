@@ -9,13 +9,13 @@ https://miro.com/app/board/uXjVNNCmN2s=/?share_link_id=196892319855
 
 - bounded context
 
-# event storming
+# Event storming
 
 - убрал технические шаги которые нашел
 
 - расположил события согласно таймлайну
 
-# core domain chart
+# Сore domain chart
 
 ## core
 
@@ -45,7 +45,7 @@ https://miro.com/app/board/uXjVNNCmN2s=/?share_link_id=196892319855
 - общая простая логика котору лучше вынести на аутсорс
 
 
-# bounded context
+# Bounded context
 
 я выделил следующие поддомены из требований которые имеют разные ubiquitous languages:
 
@@ -71,7 +71,7 @@ https://miro.com/app/board/uXjVNNCmN2s=/?share_link_id=196892319855
 изображненя того как было из первого урока и стало во втором прилагаю в miro
 
 
-# выписать характеристики системы и выбрать 1 из 4 стилей
+# Выписать характеристики системы и выбрать 1 из 4 стилей
 
 ### выделил следующие характеристики системы:
 
