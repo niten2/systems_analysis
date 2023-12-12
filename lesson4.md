@@ -4,6 +4,7 @@
 https://miro.com/app/board/uXjVNNCmN2s=/?share_link_id=196892319855
 
 - схема до (вместе с посчитанным instability)
+
 - схема после
 
 ---
